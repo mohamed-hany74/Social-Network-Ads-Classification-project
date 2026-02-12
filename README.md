@@ -451,4 +451,3 @@ This is an excellent machine learning project demonstrating:
 
 ---
 
-**Created with ❤️ for Machine Learning Enthusiasts**
